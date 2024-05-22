@@ -1,7 +1,8 @@
 # build_agent_LangChain
 Build an Agent (LangChain) Tutorial in Spanish
 
-Agente AI
+# Agente AI
+
 Por sí mismos, los modelos de lenguaje no pueden realizar acciones; solo generan texto. Un caso de uso importante para LangChain es la creación de agentes.
 
 Los agentes son sistemas que utilizan un LLM como motor de razonamiento para determinar qué acciones tomar y cuáles deben ser las entradas para esas acciones.
